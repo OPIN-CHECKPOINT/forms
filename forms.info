@@ -4,9 +4,26 @@ package = Checkpoint
 project = Checkpoint
 version = 7.x-1.0
 
-; Contributed Modules
-
 ; Components
 dependencies[] = common
 
-features[features_api][] = api:2
+; Contributed Modules
+dependencies[] = addressfield
+dependencies[] = clientside_validation
+dependencies[] = date
+dependencies[] = dragndrop_uploads
+dependencies[] = email
+dependencies[] = entityreference
+dependencies[] = field_collection
+dependencies[] = field_formatter_settings
+dependencies[] = field_group
+dependencies[] = field_validation
+dependencies[] = hierarchical_select
+dependencies[] = inline_entity_form
+dependencies[] = link
+dependencies[] = maxlength
+dependencies[] = multiupload_filefield_widget
+dependencies[] = multiupload_imagefield_widget
+dependencies[] = references_dialog
+dependencies[] = semantic_fields
+dependencies[] = title
