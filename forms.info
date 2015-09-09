@@ -15,7 +15,6 @@ dependencies[] = clientside_validation_fapi
 dependencies[] = clientside_validation_field_validation
 dependencies[] = clientside_validation_form
 dependencies[] = clientside_validation_html5
-dependencies[] = clientside_validation_validation_states
 dependencies[] = clientside_validation_webform
 dependencies[] = date
 dependencies[] = date_popup
